@@ -1,4 +1,4 @@
-##### remove docker
+##### Remove docker
 
 ```sudo apt-get purge -y docker-engine docker docker.io docker-ce docker-ce-cli docker-compose-plugin
 sudo apt-get autoremove -y --purge docker-engine docker docker.io docker-ce docker-compose-plugin
