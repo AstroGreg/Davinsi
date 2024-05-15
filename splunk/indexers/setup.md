@@ -1,4 +1,4 @@
-## Make sure to install the basic linux packages first
+## Make sure to install splunk enterpise first
 [Basic linux config](../../linux/clean_install.md)
 
 ## Install splunk
